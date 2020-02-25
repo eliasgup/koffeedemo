@@ -1,0 +1,146 @@
+body{
+	color: white;
+	font-family: sans-serif;
+}
+
+
+h1{
+	color: #f47d52;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+}
+
+h2{
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+}
+
+p{
+	color: black;
+	line-height: 22pt;
+}
+
+#title{
+	margin: auto;
+}
+
+
+.divMother{
+	margin: auto;
+	
+}
+
+.navTop{
+	height: 300px;
+	background-image: url("bgMenu.jpg");
+	background-color: #eb9975;	
+	
+	padding: -5%;
+}
+
+
+#logoHome{
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	text-align: left;
+	padding-top: 15px;
+	padding-left: 30px;
+	float: left;
+}
+
+#menu{
+	font-size: 13px;
+	text-align: right;
+	padding-top: 30px;
+	padding-right: 60px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cacaca;
+  text-decoration: none;
+}
+
+a:active {
+	color: #cacaca;
+	text-decoration: none;
+}
+
+
+a:vited{
+	border: solid;
+	border-color: white;
+}
+
+
+
+.welcome{
+	margin-top: 50px;
+	height: 600px;
+	background-color: #eaeaea;
+	padding-top: 10px;
+	padding-right: 150px;
+	padding-left: 150px;
+}
+
+
+.whatWeDo{
+	height: 600px;
+	background-color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-right: 150px;
+	padding-left: 150px;
+}
+
+#textleft{
+	float: left;
+	width: 30%;
+	padding-left: 25px;
+}
+
+#boximg01{
+	width: 60%;
+	height: 60%;
+	float: right;
+
+}
+
+
+.ourfood{
+	height: 300px;
+	background-color: pink;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	font-size: 13px;
+	text-align: left;
+}
+}
+
+.sandwiches{
+	height: 300px;
+	background-color: lightblue;
+
+
+.ourCoffee{
+	height: 200px;
+	background-color: pink;
+}
+
+.footer{
+	height: 100px;
+	background-color: lightblue;
+}
